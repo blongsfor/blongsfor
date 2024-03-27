@@ -1,4 +1,4 @@
-# Hey I'm Björn
+# :wave: Hey I'm Björn
 
 Before I started learning to code I used to work with people with disabilities. During my work I have seen how many barriers exist on websites and programms or apps we all use every day.
 I want to change this and bring a more inclusive approach to web development. 
