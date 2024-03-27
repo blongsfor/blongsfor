@@ -8,3 +8,5 @@ I want to change this and bring a more inclusive approach to web development.
 
 ### What am I doing now?
 At the moment I'm doing a bootcamp at [Spiced Academy](https://www.spiced-academy.com/en "Spiced Homepage")
+
+### Learning Goals
