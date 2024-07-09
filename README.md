@@ -7,9 +7,10 @@ I want to change this and bring a more inclusive approach to web development.
 <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="1000" height="200">
 
 ### What am I doing now?
-Currently I'm learning web-development at a bootcamp at [Spiced Academy](https://www.spiced-academy.com/en "Spiced Homepage")
+Finished a bootcamp at [Spiced Academy](https://www.spiced-academy.com/en "Spiced Homepage")
+Working on small projects to keep on coding
 
-### Learning Goals
+### Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
