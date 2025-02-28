@@ -1,4 +1,4 @@
-# Hey :wave: I'm Björn
+# Hey :wave: 
 
 ### Vision
 Before I started learning to code I used to work with people with disabilities. During my work I have seen how many barriers exist on websites and programms or apps we all use every day.
